@@ -1,7 +1,9 @@
 # Billing-system
 Billing system made by using C++
 
-You can enter password.
+You can enter password. 
+
+
 ![image](https://github.com/neeleshkr22/Billing-system/assets/130912265/0f2e8ba7-0eb2-4c01-9927-3032c5418fc3)
 
 
